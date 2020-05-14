@@ -1,0 +1,7 @@
+打開程式，在console輸入grid的邊數
+初始化為FillSingleBlock
+
+滑鼠左鍵即可點擊方格著色，點擊滑鼠右鍵即可切換模式
+
+點選 ChangeBlockSize 可切換大小
+點選 ChangeDrawLineAlgorithm 可切換 midpoint or antiAliasing
